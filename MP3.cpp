@@ -1,15 +1,13 @@
 #include <iostream>
 using namespace std;
 
-/* Name of programmer: Russell Taylor
- * Date: 5/15/2020
- * This program calculates the maximum profit for a real estate office.
- * The program prompts the user to enter the total number of units, the
- * rent that will keep all units occupied, the increase in rent that
- * results in a vacant unit, and the cost to maintain each rented unit.
- * The program assumes that the user inputs integer values that are correct.
- * The program outputs the maximum profit and how many units should be
- * rented in order to maximize the profit.
+/**
+ MP3 Maximum Rental Profits
+ CPS 171 Introduction to C++
+ Washtenaw Community College
+ Author: Russell Taylor
+
+ Calculates the maximum profit for a real estate office. Prompts the user to enter the total number of units, the rent that will keep all units occupied, the increase in rent that results in a vacant unit, and the cost to maintain each rented unit. Assumes that the user inputs integer values that are correct. Outputs the maximum profit and how many units should be rented in order to maximize the profit.
  */
 
 int main () {
