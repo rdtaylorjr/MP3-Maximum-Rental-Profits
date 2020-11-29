@@ -4,4 +4,4 @@ Calculates the maximum profit for a real estate office. Prompts the user to ente
 
 Programming Language: C++
 
-Washtenaw CPS 171 Introduction to C++ Machine Problem 3
+Washtenaw CPS 171 Introduction to C++ MP3
