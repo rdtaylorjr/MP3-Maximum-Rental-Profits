@@ -1,2 +1,5 @@
 # MP3-Maximum-Rental-Profits
-School Project for CPS 171 Introduction to C++ at Washtenaw Community College
+
+Programming Language: C++
+
+CPS 171 Introduction to C++ Machine Problem 2
